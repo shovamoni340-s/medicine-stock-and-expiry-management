@@ -1,0 +1,6 @@
+MED01 Oral Saline 120 Sufficient Stock 107
+MED02 Paracetamol 300 Sufficient Stock 103
+MED03 Insulin 60 Expiry Attention 165
+MED04 Amoxicillin 200 Expiry Attention 162
+MED05 Antacid 250 Expiry Attention 157
+MED06 Cetirizine 180 Sufficient Stock 98
